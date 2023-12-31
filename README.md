@@ -14,7 +14,7 @@ Se non si sa quale versione installare, scegliere quella a 32-bit. Prima dell'in
 5) Premere il tasto 2 sulla tastiera e, dopo aver registrato con il pulsante "r" un proprio account (digitando username e password) solo la prima volta che si utilizza il programma, cliccare "d" e inserire l'username e la password appena registrati. Scegliere un servizio tra quelli elencati, cliccare "n" e inserire le proprie credenziali (quelle che normalmente vengono utilizzate per accedere al sito di una casa editrice a scelta tra quelle disponibili).
 6) Il programma, dopo essersi ricavato automaticamente il Token, mostrerà l'elenco dei libri che possono essere scaricati. Digitare l'ID del libro che si vuole scaricare tra quelli elencati e attendere il completamento dell'operazione. Il PDF sbloccato del libro verrà scaricato nella cartella "files" dove si trova il file "PDFGrabber_Launcher.cmd" con il nome del libro selezionato.
 7) Per scaricare gli altri libri sarà sufficiente inserire un altro ID per il successivo libro.
-8) Per uscire chiudere la fiestra.
+8) Per uscire premere "q" e chiudere la fiestra.
 
 Divertitevi ;-)
 
@@ -38,7 +38,7 @@ If you don't know which version to install, choose the 32-bit version. Before in
 5) Press the 2 key on the keyboard and, after having registered your account with the "r" button (by typing username and password) only the first time you use the program, click "d" and enter the username and password just registered. Choose a service from those listed, click "n" and enter your credentials (those that are normally used to access the website of a publishing house chosen from those available).
 6) The program, after automatically obtaining the Token, will show the list of books that can be downloaded. Type the ID of the book you want to download from those listed and wait for the operation to complete. The unlocked PDF of the book will be downloaded to the "files" folder where the "PDFGrabber_Launcher.cmd" file with the name of the selected book is located.
 7) To download the other books, simply enter another ID for the next book.
-8) To exit, close the window.
+8) To exit press "q" and close the window.
 
 Enjoy ;-)
 
