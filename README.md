@@ -1,4 +1,4 @@
-# PDFGrabber_Launcher<br/>
+# PDFGrabber_Launcher
 Simple launcher for pdfgrabber script used to download pdfs (and covers) from different services
 ##### ❌ Important: the original project has been discontinued. For this reason, no more updates will be relased. Last update from source: 11 dec 2024
 
