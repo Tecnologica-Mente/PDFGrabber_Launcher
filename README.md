@@ -1,11 +1,13 @@
 # PDFGrabber_Launcher
 Simple launcher for pdfgrabber script used to download pdfs (and covers) from different services
+## ❌ Important: the original project has been discontinued. For this reason, no more updates will be relased. Last update from source: 11 dec 2024
 
 ITALIAN
+## ❌ Importante: Il progetto originale è stato interrotto. Per questo motivo, non verranno rilasciati ulteriori aggiornamenti. Ultimo aggiornamento dalla fonte: 11 dicembre 2024
 
 1) Scaricare l'archivio ed estrarlo in una posizione a piacere.
 2) Scaricare l'ultima versione dello script pdfgrabber dal sito:
-https://github.com/FelixFrog/pdfgrabber
+https://github.com/FelixFrog/pdfgrabber (link alternativo: https://github.com/RealRoti/pdfgrabber-advanced)
 Estrarre l'archivio appena scaricato e spostare tutti i file nella stessa cartella dove si è estratto l'archivio del punto 1) (vedi immagine allegata "files_position_image.png" - tutti i file devono stare nella stessa cartella). 
 3) Scaricare e installare l'ultima versione di Python a 32-bit o 64-bit (a seconda del sistema operativo installato) dal sito:
 https://www.python.org/downloads/
@@ -26,10 +28,11 @@ Licenza MIT (Massachusetts Institute of Technology)
 
 ------------------------------------------------------------------------------------
 ENGLISH
+## ❌ Important: the original project has been discontinued. For this reason, no more updates will be relased. Last update from source: 11 dec 2024
 
 1) Download the archive and extract it to a location of your choice.
 2) Download the latest version of the pdfgrabber script from the site:
-https://github.com/FelixFrog/pdfgrabber
+https://github.com/FelixFrog/pdfgrabber (alternative link: https://github.com/RealRoti/pdfgrabber-advanced)
 Extract the archive you just downloaded and move all the files to the same folder where you extracted the archive in point 1) (see attached image "files_position_image.png" - all the files must be in the same folder).
 3) Download and install the latest version of Python 32-bit or 64-bit (depending on the operating system installed) from the site:
 https://www.python.org/downloads/
