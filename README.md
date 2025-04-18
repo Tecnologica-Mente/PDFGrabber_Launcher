@@ -1,6 +1,6 @@
 # PDFGrabber_Launcher
 Simple launcher for pdfgrabber script used to download pdfs (and covers) from different services
-## ❌ Important: the original project has been discontinued. For this reason, no more updates will be relased. Last update from source: 11 dec 2024
+❌ Important: the original project has been discontinued. For this reason, no more updates will be relased. Last update from source: 11 dec 2024
 
 ITALIAN
 ## ❌ Importante: Il progetto originale è stato interrotto. Per questo motivo, non verranno rilasciati ulteriori aggiornamenti. Ultimo aggiornamento dalla fonte: 11 dicembre 2024
