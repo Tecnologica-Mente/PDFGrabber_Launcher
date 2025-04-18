@@ -3,7 +3,7 @@ Simple launcher for pdfgrabber script used to download pdfs (and covers) from di
 ❌ Important: the original project has been discontinued. For this reason, no more updates will be relased. Last update from source: 11 dec 2024
 
 ITALIAN
-## ❌ Importante: Il progetto originale è stato interrotto. Per questo motivo, non verranno rilasciati ulteriori aggiornamenti. Ultimo aggiornamento dalla fonte: 11 dicembre 2024
+#### ❌ Importante: Il progetto originale è stato interrotto. Per questo motivo, non verranno rilasciati ulteriori aggiornamenti. Ultimo aggiornamento dalla fonte: 11 dicembre 2024
 
 1) Scaricare l'archivio ed estrarlo in una posizione a piacere.
 2) Scaricare l'ultima versione dello script pdfgrabber dal sito:
