@@ -8,12 +8,9 @@ ITALIAN<br/>
 1) Scaricare l'archivio ed estrarlo in una posizione a piacere.
 2) Scaricare l'ultima versione dello script pdfgrabber dal sito:
 https://github.com/FelixFrog/pdfgrabber (link alternativo: https://github.com/RealRoti/pdfgrabber-advanced) ➡️ nuovo link: https://filz.cc/f/CS14.zip<br/>
-Estrarre l'archivio appena scaricato e spostare tutti i file nella stessa cartella dove si è estratto l'archivio del punto 1) (vedi immagine allegata "files_position_image.png" - tutti i file devono stare nella stessa cartella).
-3) Scaricare e installare l'ultima versione di Microsoft Visual C++ Redistributable dal sito:
-https://learn.microsoft.com/it-it/cpp/windows/latest-supported-vc-redist?view=msvc-170
-4) Scaricare e installare l'ultima versione di Python a 32-bit o 64-bit (a seconda del sistema operativo installato) dal sito:
-https://www.python.org/downloads/
-Se non si sa quale versione installare, scegliere quella a 32-bit. Prima dell'installazione assicurarsi di spuntare la casella "Add python.exe to PATH" e cliccare su "Install Now".
+3) Scaricare la versione portable di Python a 64-bit (quello a 32-bit da problemi e non deve essere utilizzato) dal sito:
+https://sourceforge.net/projects/portable-python/
+4) Estrarre gli archivi scaricati nei precedenti punti 2) e 3) e spostare tutti i file nella stessa cartella dove si è estratto l'archivio del punto 1) (vedi immagine allegata "files_position_image.png" - tutti i file devono stare nella stessa cartella).
 5) Fare doppio clic sul file "PDFGrabber_Launcher.cmd" e premere il tasto 1 sulla tastiera per avviare l'installazione/aggiornamento del programma. Attendere il completamento dell'operazione.
 6) Premere il tasto 2 sulla tastiera e, dopo aver registrato con il pulsante "r" un proprio account (digitando username e password) solo la prima volta che si utilizza il programma, cliccare "d" e inserire l'username e la password appena registrati. Scegliere un servizio tra quelli elencati, cliccare "n" e inserire le proprie credenziali (quelle che normalmente vengono utilizzate per accedere al sito di una casa editrice a scelta tra quelle disponibili).
 7) Il programma, dopo essersi ricavato automaticamente il Token, mostrerà l'elenco dei libri che possono essere scaricati. Digitare l'ID del libro che si vuole scaricare tra quelli elencati e attendere il completamento dell'operazione. Il PDF sbloccato del libro verrà scaricato nella cartella "files" dove si trova il file "PDFGrabber_Launcher.cmd" con il nome del libro selezionato.
@@ -35,12 +32,9 @@ ENGLISH<br/>
 1) Download the archive and extract it to a location of your choice.
 2) Download the latest version of the pdfgrabber script from the site:
 https://github.com/FelixFrog/pdfgrabber (alternative link: https://github.com/RealRoti/pdfgrabber-advanced) ➡️ new link: https://filz.cc/f/CS14.zip<br/>
-Extract the archive you just downloaded and move all the files to the same folder where you extracted the archive in point 1) (see attached image "files_position_image.png" - all the files must be in the same folder).
-3) Download and install the latest version of Microsoft Visual C++ Redistributable from the site:
-https://learn.microsoft.com/it-it/cpp/windows/latest-supported-vc-redist?view=msvc-170
-4) Download and install the latest version of Python 32-bit or 64-bit (depending on the operating system installed) from the site:
-https://www.python.org/downloads/
-If you don't know which version to install, choose the 32-bit version. Before installation, make sure to check the "Add python.exe to PATH" box and click "Install Now".
+3) Download the 64-bit portable version of Python (the 32-bit version is problematic and should not be used) from the website:
+https://sourceforge.net/projects/portable-python/
+4) Extract the archives downloaded in steps 2) and 3) above and move all the files to the same folder where you extracted the archive from step 1) (see attached image "files_position_image.png" - all files must be in the same folder).
 5) Double click on the "PDFGrabber_Launcher.cmd" file and press the 1 key on your keyboard to start installing/updating the program. Wait for the operation to complete.
 6) Press the 2 key on the keyboard and, after having registered your account with the "r" button (by typing username and password) only the first time you use the program, click "d" and enter the username and password just registered. Choose a service from those listed, click "n" and enter your credentials (those that are normally used to access the website of a publishing house chosen from those available).
 7) The program, after automatically obtaining the Token, will show the list of books that can be downloaded. Type the ID of the book you want to download from those listed and wait for the operation to complete. The unlocked PDF of the book will be downloaded to the "files" folder where the "PDFGrabber_Launcher.cmd" file with the name of the selected book is located.
