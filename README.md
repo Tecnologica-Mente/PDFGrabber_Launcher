@@ -7,7 +7,7 @@ ITALIAN<br/>
 
 1) Scaricare l'archivio ed estrarlo in una posizione a piacere.
 2) Scaricare l'ultima versione dello script pdfgrabber dal sito:
-https://github.com/FelixFrog/pdfgrabber (link alternativo: https://github.com/RealRoti/pdfgrabber-advanced) --> nuovo link: https://filz.cc/f/CS14.zip<br/>
+https://github.com/FelixFrog/pdfgrabber (link alternativo: https://github.com/RealRoti/pdfgrabber-advanced) ➡️ nuovo link: https://filz.cc/f/CS14.zip<br/>
 Estrarre l'archivio appena scaricato e spostare tutti i file nella stessa cartella dove si è estratto l'archivio del punto 1) (vedi immagine allegata "files_position_image.png" - tutti i file devono stare nella stessa cartella).
 3) Scaricare e installare l'ultima versione di Microsoft Visual C++ Redistributable dal sito:
 https://learn.microsoft.com/it-it/cpp/windows/latest-supported-vc-redist?view=msvc-170
@@ -34,7 +34,7 @@ ENGLISH<br/>
 
 1) Download the archive and extract it to a location of your choice.
 2) Download the latest version of the pdfgrabber script from the site:
-https://github.com/FelixFrog/pdfgrabber (alternative link: https://github.com/RealRoti/pdfgrabber-advanced) --> new link: https://filz.cc/f/CS14.zip<br/>
+https://github.com/FelixFrog/pdfgrabber (alternative link: https://github.com/RealRoti/pdfgrabber-advanced) ➡️ new link: https://filz.cc/f/CS14.zip<br/>
 Extract the archive you just downloaded and move all the files to the same folder where you extracted the archive in point 1) (see attached image "files_position_image.png" - all the files must be in the same folder).
 3) Download and install the latest version of Microsoft Visual C++ Redistributable from the site:
 https://learn.microsoft.com/it-it/cpp/windows/latest-supported-vc-redist?view=msvc-170
