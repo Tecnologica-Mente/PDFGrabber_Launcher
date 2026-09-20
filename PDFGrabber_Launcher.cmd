@@ -37,7 +37,7 @@ echo:
 echo:             Please select:
 echo:
 echo:             [1] To install/upgrade all the required dependencies
-echo:             [2] To run PDFGrabber
+echo:             [2] To run PDFGrabber script
 echo:             ___________________________________________________________________________
 echo:                                                                     
 echo:             [3] Read Me
@@ -68,7 +68,25 @@ if not exist "requirements.txt" (
    echo Cannot find the requirements.txt file. Operation aborted
    goto :End
 )
-start cmd.exe /k "pip install -r requirements.txt"
+if not exist "Console-Launcher.exe" (
+   echo Cannot find the Console-Launcher.exe file. Operation aborted
+   goto :End
+)
+if exist "%mypath%\App\Python\Scripts\pip.exe" (
+   if not exist "%mypath%\App\Python\Scripts\normalizer.exe" (
+      REM The following line does not work with the Python Console
+      REM START /wait "" Console-Launcher.exe "pip install -r requirements.txt"
+      echo Please right click on the Console-Launcher and press Enter to start installation/update process
+      echo|set/p="pip install -r requirements.txt"|clip
+      START /wait "" Console-Launcher.exe %p%
+      echo All the required dependencies has been installed/updated
+   ) else (
+      echo All the required dependencies has been already installed/updated
+   )
+) else (
+   echo Cannot find the pip.exe file. Make sure Portable Python has been installed correctly
+)
+)
 :End
 echo:
 echo Press any key to continue...
@@ -84,10 +102,16 @@ exit /b
 :: Adapted from: https://stackhowto.com/batch-file-to-check-if-multiple-files-exist/
 set mypath=%cd%
 ::@echo %mypath%
-if exist "main.py" (
-   start cmd.exe /k "py main.py"
+if exist "Console-Launcher.exe" if exist "download.py" (
+   REM The following line does not work with the Python Console
+   REM START /wait "" Console-Launcher.exe "python download.py"
+   REM copy some text to the clipboard
+   echo Please right click on the Console-Launcher and press Enter to start download process
+   echo|set/p="python download.py"|clip
+   START /wait "" Console-Launcher.exe
 )
-if not exist "main.py" echo Cannot find the main.py file. Operation aborted
+if not exist "Console-Launcher.exe" echo Cannot find the Console-Launcher.exe file. Operation aborted
+if not exist "download.py" echo Cannot find the download.py file. Operation aborted
 echo:
 echo Press any key to continue...
 pause >nul
