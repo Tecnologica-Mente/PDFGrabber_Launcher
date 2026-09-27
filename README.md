@@ -7,7 +7,7 @@ ITALIAN<br/>
 
 1) Scaricare l'archivio ed estrarlo in una posizione a piacere.
 2) Scaricare l'ultima versione dello script pdfgrabber dal sito:
-https://github.com/FelixFrog/pdfgrabber (link alternativo: https://github.com/RealRoti/pdfgrabber-advanced) ➡️ nuovo link: https://filz.cc/f/CS14.zip<br/>
+https://github.com/FelixFrog/pdfgrabber (link alternativo: https://github.com/RealRoti/pdfgrabber-advanced) ➡️ nuovi links: https://filz.cc/f/CS14.zip - https://files.catbox.moe/gz7wcr.zip<br/>
 3) Scaricare la versione portable di Python a 64-bit (quello a 32-bit da problemi e non deve essere utilizzato) dal sito:
 https://sourceforge.net/projects/portable-python/
 4) Estrarre gli archivi scaricati nei precedenti punti 2) e 3) e spostare tutti i file nella stessa cartella dove si è estratto l'archivio del punto 1) (vedi immagine allegata "files_position_image.png" - tutti i file devono stare nella stessa cartella).
